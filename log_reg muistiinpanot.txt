@@ -1,0 +1,27 @@
+Luonnollisen logaritmin laskeminen
+funktiolaskimella
+1) paina
+e=n. 2,718
+
+2) paina
+x potentenssiin y
+3) valitse potenssi (esim. ln(10)
+4) paina log
+5) paina enter
+
+>> ei tainut toimia....
+
+
+https://www.fsd.tuni.fi/fi/palvelut/menetelmaopetus/kvanti/regressio/logistinen/
+https://tilastoapu.wordpress.com/analysointiosaaminen-kurssimateriaali/
+
+Muista sklearn = 
+pip install scipy
+pip install scikit-learn (!!!!!!!!!!!!!!!!!
+
+
+Explanation for creting a picture of logistic regression....
+X_range: Creates a smooth range of X values to plot a continuous curve.
+Y_prob: Uses the model’s predicted probabilities for each X_range value.
+Plot: The red line shows the logistic regression curve, and the blue dots show the actual data points.
+This will display the logistic regression as a smooth S-shaped curve overlaid with the data points for comparison. Let me know if you need adjustments!
